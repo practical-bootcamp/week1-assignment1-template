@@ -26,7 +26,7 @@ Use the linked resources in this section to review and reference any of the prev
 
 1. [Working with variable and types](https://github.com/alfredodeza/introduction-to-python/tree/main/notebooks/lesson1)
 1. [Introduction to Python data structures](https://github.com/alfredodeza/introduction-to-python/tree/main/notebooks/lesson2)
-1. [Adding and extracting data from data structures](https://github.com/alfredodeza/introduction-to-python/tree/main/notebooks/lesson1)
+1. [Adding and extracting data from data structures](https://github.com/alfredodeza/introduction-to-python/tree/main/notebooks/lesson3)
 
 
 ### Reading and code resources
