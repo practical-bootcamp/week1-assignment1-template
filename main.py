@@ -39,7 +39,10 @@ else:
     has_contacts = False
 
 
-# Use the `apples` and `cost` variables in the numbers_string variable
+# Make the numbers_string variable use both the `apples` and `cost` variables to
+# create a single string. The numbers_string should be a string and not a `None`
+# Feel free to use any text within the string, however, it must include both the
+# `apples` and `cost` variables
 apples = 4
 cost = 7.3
 numbers_string = None
