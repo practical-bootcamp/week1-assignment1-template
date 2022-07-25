@@ -28,15 +28,15 @@ def test_numbers_string():
 
 
 def test_file_sizes():
-    assert main.files_sizes is not None, "file_sizes variable shouldn't be a None"
+    assert main.file_sizes is not None, "file_sizes variable shouldn't be a None"
     expected = [14, 55, 84, 93, 120, 344]
     assert sorted(main.file_sizes) == expected
 
 
 def test_file_names():
-    assert main.files_names is not None, "file_names variable shouldn't be a None"
+    assert main.file_names is not None, "file_names variable shouldn't be a None"
     expected = ['HEAD', 'config', 'index', 'logs', 'objects', 'packed-refs refs']
-    assert sorted(main.file_sizes) == expected
+    assert sorted(main.file_names) == expected
 
 
 def test_new_first_names():
