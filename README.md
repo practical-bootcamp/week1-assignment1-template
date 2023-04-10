@@ -52,3 +52,6 @@ This assignent is for week 1 (out of 4) of the Python Bootcamp for Data. The who
 - [Week 2: Python Functions and Classes](https://github.com/alfredodeza/python-functions-and-classes)
 - [Week 3: Testing In Python](https://github.com/alfredodeza/python-testing/)
 - [Week 4: Introduction to Pandas and Numpy](https://github.com/alfredodeza/pandas-and-numpy)
+
+## Bonus challenge
+Open the [bonus](./bonus) directory and then look into the [main.py](./bonus/main.py) file. It has instructions as comments that will guide you on this optional challenge. For this challenge you will use dictionaries to print out file and file sizes of a directory. Follow the instructions for each comment. This bonus assignment is not graded and will not trigger auto-grading. It is meant to be a challenge for you to practice what you learned in the course.
