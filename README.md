@@ -44,7 +44,7 @@ Use the linked resources in this section to review and reference any of the prev
 
 > 🎥 Click the image below to access week 1 of the full course on O'Reilly
 
-
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50146VIDEOPAIML/400w/)](https://www.oreilly.com/videos/python-bootcamp/50146VIDEOPAIML/ "Introduction to Python")
 
 This assignent is for week 1 (out of 4) of the Python Bootcamp for Data. The whole course has four weeks:
 
